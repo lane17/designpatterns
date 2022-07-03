@@ -1,15 +1,18 @@
 package com.decorator.mine;
 
+import lombok.Getter;
+
 import java.math.BigDecimal;
 
-public enum Size {
+@Getter
+public enum SizeType {
     TALL(BigDecimal.valueOf(0.1)),
     GRANDE(BigDecimal.valueOf(0.15)),
     VENTI(BigDecimal.valueOf(0.2));
 
-    BigDecimal cost;
+    public final BigDecimal cost;
 
-    Size(BigDecimal cost) {
+    SizeType(BigDecimal cost) {
         this.cost = cost;
     }
 }

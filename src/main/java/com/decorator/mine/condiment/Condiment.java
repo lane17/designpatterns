@@ -1,4 +1,4 @@
-package com.decorator.mine;
+package com.decorator.mine.condiment;
 
 import java.math.BigDecimal;
 
