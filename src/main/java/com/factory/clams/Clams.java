@@ -1,2 +1,4 @@
-package com.factory;public class Clams {
+package com.factory.clams;
+
+public class Clams {
 }

@@ -1,2 +1,4 @@
-package com.factory.dough;public class ThickCrustDough {
+package com.factory.dough;
+
+public class ThickCrustDough extends Dough {
 }

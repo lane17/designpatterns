@@ -1,2 +1,4 @@
-package com.factory;public class Sauce {
+package com.factory.sauce;
+
+public class Sauce {
 }

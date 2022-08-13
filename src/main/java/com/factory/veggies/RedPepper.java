@@ -1,2 +1,4 @@
-package com.factory;public class RedPepper {
+package com.factory.veggies;
+
+public class RedPepper extends Veggies {
 }

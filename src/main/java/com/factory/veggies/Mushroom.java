@@ -1,2 +1,4 @@
-package com.factory;public class Mushroom {
+package com.factory.veggies;
+
+public class Mushroom extends Veggies {
 }

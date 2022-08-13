@@ -1,2 +1,4 @@
-package com.factory;public class Dough {
+package com.factory.dough;
+
+public class Dough {
 }

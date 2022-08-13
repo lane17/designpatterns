@@ -1,2 +1,4 @@
-package com.factory;public class Pepperoni {
+package com.factory.pepperoni;
+
+public class Pepperoni {
 }

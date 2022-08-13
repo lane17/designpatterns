@@ -1,2 +1,4 @@
-package com.factory.clams;public class FrozenClam {
+package com.factory.clams;
+
+public class FrozenClam extends Clams {
 }

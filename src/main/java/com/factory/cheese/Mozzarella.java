@@ -1,2 +1,4 @@
-package com.factory.cheese;public class Mozzarella {
+package com.factory.cheese;
+
+public class Mozzarella extends Cheese {
 }

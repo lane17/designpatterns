@@ -1,2 +1,4 @@
-package com.factory;public class FreshClams {
+package com.factory.clams;
+
+public class FreshClams extends Clams {
 }
